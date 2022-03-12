@@ -1,0 +1,5 @@
+Hellow...
+Smoke: Smoke testing happens when the build is not stable.
+Sanity: Sanity testing happens when the build is stable.
+Retesting: Testing happens with multiple or different data sets.
+Regretion: Once build has been done and tested with same data sets.
